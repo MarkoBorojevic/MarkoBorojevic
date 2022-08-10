@@ -1,7 +1,6 @@
-# Hey there! 
-I'm Marko. I'm a hobbyist software developer from Serbia.
-I have about 5+ years of experience in Unity and C#. 
-I'm currently messing around with web development (Node.js, React, etc.)
+# Hi, I'm Marko. 
+I'm a software developer from Serbia.
+My experience ranges from game development with Unity and C# to web development with JavaScript (And stuff in between)
 
 [Twitter](https://www.twitter.com/serbianmeerkat)
 
