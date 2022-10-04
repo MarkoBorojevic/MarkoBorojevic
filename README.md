@@ -20,7 +20,7 @@ I won 3rd place in a [coding challenge](https://www.linkedin.com/posts/nordeus_w
 
 Web Development
 ---------------- 
-I've been learning web development for 2+ years. I've become pretty confident with JavaScript and back-end development, but I still have a way to go with front-end. 
+I've been learning web development for 2+ years. I've become pretty confident with JavaScript and many backend tools, but I still have a way to go with front-end. 
 
 One of my current projects is my [Personal website](https://markoborojevic.com)
 
