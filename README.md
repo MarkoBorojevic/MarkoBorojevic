@@ -1,4 +1,4 @@
-Hi, my name is Marko Borojević 
+Hi, I'm Marko
 ================================  
 I've been learning programming since I was 7 years old. I'm interested in a wide range of development fields; from game development to full-stack web development 
 
