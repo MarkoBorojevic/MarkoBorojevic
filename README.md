@@ -3,7 +3,7 @@ Hi, I'm Marko
 I've been learning programming since I was 7 years old. I'm interested in a wide range of development fields; from game development to full-stack web development 
 
 * 🌍  I'm based in Belgrade, Serbia
-* ✉️  You can contact me at [marko.borojevic.business@gmail.com](mailto:marko.borojevic.business@gmail.com)
+* ✉️  You can contact me at [contact@markoborojevic.com](mailto:contact@markoborojevic.com)
 * 🧠  I'm learning Front-end Frameworks
 * 🤝  I'm open to collaborating on anything!
 
